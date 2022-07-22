@@ -1,1 +1,1 @@
-<img src="gifs/bouncingkanji.gif">
+<img src="gifs/deepmetaphor.gif">
