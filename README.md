@@ -1,1 +1,1 @@
-<img src="gifs/deepmetaphor.gif">
+<img src="gifs/I-should-get-a-Pulitzer-for-this-deep-commentary.gif" alt="bouncing kanji" style="width:100%;"> 
